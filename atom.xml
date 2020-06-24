@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://guagua.github.io</id>
+    <title>瓜皮小站</title>
+    <updated>2020-06-24T05:47:28.190Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://guagua.github.io"/>
+    <link rel="self" href="http://guagua.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>http://guagua.github.io/images/avatar.png</logo>
+    <icon>http://guagua.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, 瓜皮小站</rights>
+    <entry>
+        <title type="html"><![CDATA[温故而知新]]></title>
+        <id>http://guagua.github.io/post/wen-gu-er-zhi-xin/</id>
+        <link href="http://guagua.github.io/post/wen-gu-er-zhi-xin/">
+        </link>
+        <updated>2020-06-24T03:26:25.000Z</updated>
+        <content type="html"><![CDATA[<p>子在川上曰：</p>
+]]></content>
+    </entry>
+</feed>
